@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-services-management-app-customer-e",
+  "editForm": "i-i-s-services-management-app-customer-e",
+  "external": false,
+  "caption": "Customer",
+  "name": "IISServices_Management_AppCustomerL",
+  "className": "CustomerL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-services-management-app-customer",
+      "modelProjection": "CustomerL"
+    }
+  ]
+}

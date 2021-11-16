@@ -1,0 +1,1 @@
+docker-compose -p services_management_app down

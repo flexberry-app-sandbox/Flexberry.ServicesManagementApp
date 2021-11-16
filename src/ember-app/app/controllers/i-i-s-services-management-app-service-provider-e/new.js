@@ -1,0 +1,4 @@
+import IISServices_Management_AppServiceProviderEController from '../i-i-s-services-management-app-service-provider-e';
+
+var IISServices_Management_AppServiceProviderENewController = IISServices_Management_AppServiceProviderEController;
+export default IISServices_Management_AppServiceProviderENewController;

@@ -1,0 +1,73 @@
+﻿{
+  "applicationCaption": "Services_ management_ app",
+  "applicationTitle": "Services_ management_ app",
+  "items": [
+    {
+      "link": null,
+      "menuName": "events-and-requests",
+      "caption": "Events and Requests",
+      "title": "Events and Requests",
+      "children": [
+        {
+          "link": "i-i-s-services-management-app-event-l",
+          "menuName": null,
+          "caption": "Event",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-services-management-app-customer-request-l",
+          "menuName": null,
+          "caption": "Customer request",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-services-management-app-ticket-l",
+          "menuName": null,
+          "caption": "Ticket",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-services-management-app-feedback-l",
+          "menuName": null,
+          "caption": "Feedback",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "profile",
+      "caption": "Profile",
+      "title": "Profile",
+      "children": [
+        {
+          "link": "i-i-s-services-management-app-customer-l",
+          "menuName": null,
+          "caption": "Customer Profile",
+          "title": "Customer",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "common",
+      "caption": "Common",
+      "title": "Common",
+      "children": [
+        {
+          "link": "i-i-s-services-management-app-service-provider-l",
+          "menuName": null,
+          "caption": "Service Provider",
+          "title": "Service provider",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Customer",
+  "name": "IISServices_Management_AppCustomerE",
+  "className": "CustomerE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-services-management-app-customer",
+      "modelProjection": "CustomerE"
+    }
+  ]
+}

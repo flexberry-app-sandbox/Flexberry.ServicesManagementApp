@@ -1,0 +1,4 @@
+import IISServices_Management_AppCustomerRequestEController from '../i-i-s-services-management-app-customer-request-e';
+
+var IISServices_Management_AppCustomerRequestENewController = IISServices_Management_AppCustomerRequestEController;
+export default IISServices_Management_AppCustomerRequestENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-services-management-app-service-provider-e",
+  "editForm": "i-i-s-services-management-app-service-provider-e",
+  "external": false,
+  "caption": "Service provider",
+  "name": "IISServices_Management_AppServiceProviderL",
+  "className": "ServiceProviderL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-services-management-app-service-provider",
+      "modelProjection": "ServiceProviderL"
+    }
+  ]
+}
