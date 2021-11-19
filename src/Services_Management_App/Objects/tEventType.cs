@@ -12,6 +12,7 @@ namespace IIS.Services_Management_App
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -31,16 +32,19 @@ namespace IIS.Services_Management_App
         // *** Start programmer edit section *** (tEventType.Movie CustomAttributes)
 
         // *** End programmer edit section *** (tEventType.Movie CustomAttributes)
+        [Caption("Movie")]
         Movie,
         
         // *** Start programmer edit section *** (tEventType.Concert CustomAttributes)
 
         // *** End programmer edit section *** (tEventType.Concert CustomAttributes)
+        [Caption("Concert")]
         Concert,
         
         // *** Start programmer edit section *** (tEventType.Performance CustomAttributes)
 
         // *** End programmer edit section *** (tEventType.Performance CustomAttributes)
+        [Caption("Performance")]
         Performance,
     }
 }

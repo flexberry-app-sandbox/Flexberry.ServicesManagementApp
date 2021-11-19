@@ -1,7 +1,7 @@
 import { createEnum } from 'ember-flexberry-data/utils/enum-functions';
 
 export default createEnum({
-  Movie: '',
-  Concert: '',
-  Performance: ''
+  Movie: 'Movie',
+  Concert: 'Concert',
+  Performance: 'Performance'
 });
