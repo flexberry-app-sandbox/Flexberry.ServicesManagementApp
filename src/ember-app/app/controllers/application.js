@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-event-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-event-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-event-l.title'),
-            icon: 'list',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-services-management-app-customer-request-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-customer-request-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-customer-request-l.title'),
-            icon: 'archive',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-services-management-app-ticket-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-ticket-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-ticket-l.title'),
-            icon: 'phone',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-services-management-app-feedback-l',
@@ -58,7 +58,7 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-customer-l',
             caption: i18n.t('forms.application.sitemap.profile.i-i-s-services-management-app-customer-l.caption'),
             title: i18n.t('forms.application.sitemap.profile.i-i-s-services-management-app-customer-l.title'),
-            icon: 'tasks',
+            icon: 'briefcase',
             children: null
           }]
         }, {
@@ -70,7 +70,7 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-service-provider-l',
             caption: i18n.t('forms.application.sitemap.common.i-i-s-services-management-app-service-provider-l.caption'),
             title: i18n.t('forms.application.sitemap.common.i-i-s-services-management-app-service-provider-l.title'),
-            icon: 'suitcase',
+            icon: 'phone',
             children: null
           }]
         }
