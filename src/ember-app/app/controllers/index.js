@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-customer-request-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-customer-request-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-customer-request-l.title'),
-            icon: 'folder open',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-services-management-app-ticket-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-ticket-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-ticket-l.title'),
-            icon: 'book',
+            icon: 'building',
             children: null
           }, {
             link: 'i-i-s-services-management-app-feedback-l',
             caption: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-feedback-l.caption'),
             title: i18n.t('forms.application.sitemap.events-and-requests.i-i-s-services-management-app-feedback-l.title'),
-            icon: 'chart bar',
+            icon: 'briefcase',
             children: null
           }]
         }, {
@@ -52,7 +52,7 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-customer-l',
             caption: i18n.t('forms.application.sitemap.profile.i-i-s-services-management-app-customer-l.caption'),
             title: i18n.t('forms.application.sitemap.profile.i-i-s-services-management-app-customer-l.title'),
-            icon: 'briefcase',
+            icon: 'archive',
             children: null
           }]
         }, {
@@ -64,7 +64,7 @@ export default Controller.extend({
             link: 'i-i-s-services-management-app-service-provider-l',
             caption: i18n.t('forms.application.sitemap.common.i-i-s-services-management-app-service-provider-l.caption'),
             title: i18n.t('forms.application.sitemap.common.i-i-s-services-management-app-service-provider-l.title'),
-            icon: 'phone',
+            icon: 'table',
             children: null
           }]
         }
